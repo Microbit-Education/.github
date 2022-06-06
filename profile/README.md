@@ -1,4 +1,4 @@
-## Micro:bit Education
+# Micro:bit Education
 
-# About
+## About
 Add description 
